@@ -10,11 +10,18 @@
 
 #using for loop for iteration and using a as another object ,in membership operator is used for getting the value of a from numbers
 
+#if else statement is used for conditions
+
+#if statement and condition : not logic operator is used to if modulus is not giving any remainder
+
 #then assignment operator even_numbers+=1 is used for count the even numbers and add till loop ends 
+
+#else statement and condition
 
 #then assignment operator odd_numbers+=1 is used for count the odd numbers and add till loop ends 
 
-#print statement is used for even and odd numbers
+
+#print statement is used for printing count of even and odd numbers
 
 numbers=(1,2,3,4,5,6,7,8,9)
 odd_numbers=0
